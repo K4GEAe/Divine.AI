@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "product": "Divine",
+  "version": "0.2.2-alpha.2",
+  "target": "win-x64",
+  "distributionStatus": "unsigned-local-test-only",
+  "readyForRelease": false,
+  "selfUpdaterReady": false,
+  "authenticodeStatus": "NotSigned",
+  "includedCredits": true,
+  "installer": {
+    "path": "release-assets/divine-harness-0.2.2-alpha.2-win-x64-unsigned.exe",
+    "sizeBytes": 320197470,
+    "sha256": "61390a2e64bf815e1ae489fdecbf19d2b74c1df270ae7218303adcb61ddd82f3"
+  },
+  "publication": {
+    "repositoryFiles": [
+      "repository/README.md",
+      "repository/LICENSE",
+      "repository/THIRD_PARTY_NOTICES.md",
+      "repository/MANIFEST.json",
+      "SHA256SUMS.txt",
+      "repository/CREDITS.md"
+    ],
+    "githubReleaseAsset": "release-assets/divine-harness-0.2.2-alpha.2-win-x64-unsigned.exe"
+  }
+}
