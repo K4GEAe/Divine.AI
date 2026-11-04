@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "product": "Divine",
-  "version": "0.2.2-alpha.2",
+  "version": "0.2.2-alpha.3",
   "target": "win-x64",
   "distributionStatus": "unsigned-local-test-only",
   "readyForRelease": false,
@@ -9,19 +9,24 @@
   "authenticodeStatus": "NotSigned",
   "includedCredits": true,
   "installer": {
-    "path": "release-assets/divine-harness-0.2.2-alpha.2-win-x64-unsigned.exe",
-    "sizeBytes": 320197470,
-    "sha256": "61390a2e64bf815e1ae489fdecbf19d2b74c1df270ae7218303adcb61ddd82f3"
+    "path": "release-assets/divine-harness-0.2.2-alpha.3-win-x64-unsigned.exe",
+    "sizeBytes": 320252452,
+    "sha256": "256141b9b3451af5de9874837c6fb0c865a95b9675087d668855e54bb27abdc2"
   },
   "publication": {
+    "githubRepository": "K4GEAe/Divine.AI",
     "repositoryFiles": [
       "repository/README.md",
       "repository/LICENSE",
       "repository/THIRD_PARTY_NOTICES.md",
+      "repository/PRIVACY.md",
+      "repository/SECURITY.md",
+      "repository/SUPPORT.md",
+      "repository/TERMS.md",
       "repository/MANIFEST.json",
       "SHA256SUMS.txt",
       "repository/CREDITS.md"
     ],
-    "githubReleaseAsset": "release-assets/divine-harness-0.2.2-alpha.2-win-x64-unsigned.exe"
+    "githubReleaseAsset": "release-assets/divine-harness-0.2.2-alpha.3-win-x64-unsigned.exe"
   }
 }
